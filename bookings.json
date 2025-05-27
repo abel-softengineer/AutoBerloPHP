@@ -1,0 +1,23 @@
+{
+    "6786076c50f84": {
+        "car_id": "1",
+        "checkin": "2025-01-18",
+        "checkout": "2025-01-22",
+        "email": "111@gmail.com",
+        "id": "6786076c50f84"
+    },
+    "67860c5720575": {
+        "car_id": "1",
+        "checkin": "2025-01-07",
+        "checkout": "2025-01-16",
+        "email": "admin@ikarrental.hu",
+        "id": "67860c5720575"
+    },
+    "67860cbdc608f": {
+        "car_id": "3",
+        "checkin": "2025-01-01",
+        "checkout": "2025-01-03",
+        "email": "admin@ikarrental.hu",
+        "id": "67860cbdc608f"
+    }
+}

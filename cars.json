@@ -1,0 +1,50 @@
+{
+    "6785e7a496c2d": {
+        "car_id": "1",
+        "id": "6785e7a496c2d",
+        "brand": "Huhogo",
+        "model": "Vitara",
+        "year": 1989,
+        "price": 123,
+        "seats": 12,
+        "transmission": "automatic",
+        "fuel_type": "electric",
+        "image": "\/pictures\/suzuki.jpg"
+    },
+    "67860aec5ae0a": {
+        "car_id": "2",
+        "brand": "Opel",
+        "model": "Kongo",
+        "year": 1982,
+        "price": 1400,
+        "seats": 5,
+        "transmission": "automatic",
+        "fuel_type": "diesel",
+        "image": "\/pictures\/car.jpg",
+        "id": "67860aec5ae0a"
+    },
+    "67860b0f4853d": {
+        "car_id": "3",
+        "brand": "Ford",
+        "model": "T",
+        "year": 1804,
+        "price": 140,
+        "seats": 4,
+        "transmission": "manual",
+        "fuel_type": "petrol",
+        "image": "\/pictures\/oldcar.jpg",
+        "id": "67860b0f4853d"
+    },
+    "67860c507abb4": {
+        "car_id": "4",
+        "brand": "Bugatti",
+        "model": "Ferrari",
+        "year": 2024,
+        "price": 140000,
+        "seats": 1,
+        "transmission": "automatic",
+        "fuel_type": "electric",
+        "image": "\/pictures\/car2.jpg",
+        "id": "67860c507abb4"
+    }
+}

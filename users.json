@@ -1,0 +1,44 @@
+{
+    "67857e0599b60": {
+        "name": "aa a",
+        "email": "admin@ikarrental.hu",
+        "password": "12345678",
+        "is_admin": false,
+        "id": "67857e0599b60"
+    },
+    "678589ea7d0cc": {
+        "name": "aa a",
+        "email": "waterteamc@gmail.com",
+        "password": "12345678",
+        "is_admin": false,
+        "id": "678589ea7d0cc"
+    },
+    "678589f306b06": {
+        "name": "aa a",
+        "email": "waterteamc@gmail.com",
+        "password": "12345678",
+        "is_admin": false,
+        "id": "678589f306b06"
+    },
+    "67858a2ec1a0d": {
+        "name": "aa a",
+        "email": "waterteamc@gmail.com",
+        "password": "12345678",
+        "is_admin": false,
+        "id": "67858a2ec1a0d"
+    },
+    "67858a390c662": {
+        "name": "aa a",
+        "email": "waterteamc@gmail.com",
+        "password": "12345678",
+        "is_admin": false,
+        "id": "67858a390c662"
+    },
+    "6786072375f15": {
+        "name": "aa a",
+        "email": "111@gmail.com",
+        "password": "12345678",
+        "is_admin": false,
+        "id": "6786072375f15"
+    }
+}
