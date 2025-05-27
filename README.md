@@ -1,9 +1,4 @@
-Karsai Ábel
-SGDNDZ
-Webprogramozás – PHP beadandó
-Kijelentem, hogy ez a megoldás a saját munkám. Nem másoltam vagy használtam harmadik féltől származó megoldásokat. Nem továbbítottam megoldást hallgatótársaimnak, és nem is tettem közzé. Nem használtam mesterséges intelligencia által generált kódot, kódrészletet. Az ELTE HKR 377/A. § értelmében, ha nem megengedett segédeszközt veszek igénybe, vagy más hallgatónak nem megengedett segítséget nyújtok, a tantárgyat nem teljesíthetem.
-
-ELTE Hallgatói Követelményrendszer, IK kari különös rész, 377/A. §: "Az a hallgató, aki olyan tanulmányi teljesítménymérés (vizsga, zárthelyi, beadandó feladat) során, amelynek keretében számítógépes program vagy programmodul elkészítése a feladat, az oktató által meghatározottakon kívül más segédeszközt vesz igénybe, illetve más hallgatónak meg nem engedett segítséget nyújt, tanulmányi szabálytalanságot követ el, ezért az adott félévben a tantárgyat nem teljesítheti és a tantárgy kreditjét nem szerezheti meg."
+Az egyik barátod megkeres azzal, hogy szeretne egy autókölcsönzőt nyitni, és mivel tudja, hogy te programtervező informatikusnak tanulsz, téged kér fel a hozzátartozó weboldal elkészítésére. Az alábbi dokumentumot küldi el neked a kölcsönző specifikációiról. Egyetlen egy gond van, a vállalkozást már a következő év elején el szeretné indítani, és ehhez mindenképpen szüksége van a Te segítségedre! 
 
 ### Minimálisan teljesítendő (enélkül nem fogadjuk el, 6 pont) 
 - [X] 0.0 pont Readme.md fájl: kitöltve, feltöltve 
